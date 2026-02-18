@@ -1,6 +1,6 @@
-# LIVING CITIES: A Complete Synthesis
+# Living Cities: Biology, Abundance & Meaning in the Post-Labor Age
 
-## How Data Cooperatives, Distributed Ownership, and Intelligent Infrastructure Can Build Cities That Serve Their Residents
+## A Complete Organism for Civilization After Work
 
 **Author:** Lucas Pollet (Light)  
 **Research Assistant:** Echo (Mycelium)  

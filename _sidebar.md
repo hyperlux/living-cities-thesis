@@ -1,6 +1,8 @@
 * [Home](/)
+* [**📋 Editorial Response**](KOROVED-EDITORIAL-RESPONSE.md)
 * [**KOROVED Blueprint**](KOROVED-BLUEPRINT.md)
 * [Evolution Roadmap](EVOLUTION-ROADMAP.md)
+* [Editorial Brief](EDITORIAL-BRIEF.md)
 
 ---
 
