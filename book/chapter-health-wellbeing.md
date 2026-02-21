@@ -74,6 +74,20 @@ Green infrastructure plays a crucial role. Trees absorb pollutants, filter parti
 
 Monitoring and transparency are essential. Real-time air quality data, publicly available and easily understood, allows residents to make informed decisions and creates pressure for improvement. Low-cost sensors distributed throughout the city can reveal pollution hotspots that traditional monitoring misses. When people can see the air quality gradient across their city, they can organize for change. The living city does not hide its air quality behind aggregate statistics but reveals it in granular detail.
 
+## Heat and Climate Health: The Thermal Environment
+
+Climate change is making cities deadly in new ways. Urban heat islands—the phenomenon by which cities are significantly warmer than surrounding countryside—combine with rising global temperatures to create thermal environments that kill. Heat is now the deadliest weather phenomenon in many countries, claiming more lives than hurricanes, floods, and tornadoes combined. The elderly, the very young, outdoor workers, and those without air conditioning are most vulnerable.
+
+The urban heat island effect is substantial—cities can be 5-10 degrees Celsius warmer than surrounding rural areas, particularly at night. This is not inevitable but designed. Dark surfaces absorb solar radiation. Lack of vegetation eliminates evaporative cooling. Dense construction traps heat. Waste heat from buildings, vehicles, and industry adds to the thermal load. Air conditioning, while protecting those inside, rejects heat to outdoor spaces, further warming them.
+
+Design for thermal health requires systematic attention to the heat balance of urban areas. Cool roofs and cool pavements reflect rather than absorb solar radiation. Green roofs provide evaporative cooling. Street trees shade surfaces and people while cooling air through transpiration. Water features add evaporative cooling. Building orientation can minimize solar gain in summer while maximizing it in winter.
+
+Access to cooling is a health equity issue. Heat deaths concentrate among those who cannot afford air conditioning, who live in poorly insulated housing, who cannot escape to cooled public spaces. The living city ensures access to cooling for all—through public cool spaces during heat waves, through assistance with energy costs, through building codes that ensure thermal comfort without expensive equipment. It recognizes that in a warming world, protection from heat is not a luxury but a necessity.
+
+The temporal dimension matters as well. Night-time temperatures are often more dangerous than daytime peaks because they prevent the body from recovering overnight. Urban areas, with their thermal mass, stay warm through the night while rural areas cool. Design that promotes night-time cooling—green space, reflective surfaces, ventilation corridors—is essential for heat-vulnerable populations.
+
+Climate adaptation more broadly is a health issue. As weather becomes more extreme, cities must be designed for resilience. This means managing stormwater to prevent flooding and the diseases that follow. It means maintaining power infrastructure to ensure continuity of healthcare and cooling. It means preparing for the displacement and stress that climate events cause. The healthy city is a climate-resilient city.
+
 ## Noise Reduction: The Acoustic Environment
 
 Sound is the forgotten dimension of urban design. We pay enormous attention to how cities look, less to how they function, and almost none to how they sound. Yet noise has profound effects on health—raising blood pressure, disrupting sleep, impairing cognition, increasing stress hormones, and contributing to cardiovascular disease. Chronic noise exposure is associated with increased rates of heart attack, stroke, and premature death. The acoustic environment is not aesthetic background but physiological intervention.
@@ -159,6 +173,14 @@ The design of therapeutic environments—hospitals, clinics, care facilities—d
 Particular mental health challenges require particular design responses. Depression responds to light and social connection—design can provide both. Anxiety responds to predictability, safety, and control—design can enhance all three. Dementia requires wayfinding support, memory cues, and safe wandering paths. Autism requires control over sensory stimulation and clear spatial organization. Design that serves mental health must attend to the specific needs of diverse populations.
 
 Community mental health depends on the availability of supports distributed throughout the urban fabric. Mental health services embedded in community settings—primary care offices, schools, community centers—are more accessible and less stigmatizing than specialized clinics. Peer support spaces, recovery communities, and social enterprises that employ people with mental health conditions should be integrated into neighborhoods rather than isolated. The living city treats mental health infrastructure as essential as physical health infrastructure.
+
+The relationship between housing and mental health deserves special attention. Housing insecurity—the fear of eviction, the stress of unaffordable rents, the instability of frequent moves—is profoundly damaging to mental health. Homelessness is a mental health crisis, both as cause and effect. Housing quality matters: homes that are damp, cold, noisy, crowded, or poorly maintained create chronic stress. The living city treats housing stability and quality as mental health interventions.
+
+Workplace design affects the mental health of the millions who spend their days in offices, factories, and other workplaces. Natural light, views of the outside, control over one's immediate environment, spaces for both collaboration and privacy, freedom from constant surveillance—these features support mental wellbeing. Open-plan offices that provide none of these features while maximizing distraction and stress damage mental health, regardless of what they save in square footage.
+
+Schools shape the mental health of children through their design. Classrooms with good daylighting, views of nature, and comfortable temperatures support learning and reduce behavioral problems. Playgrounds that allow for varied and imaginative play support social and emotional development. School buildings that feel institutional and prison-like communicate messages about how much children are valued. The design of schools is investment in mental health across the lifespan.
+
+Urban design can also address the collective mental health impacts of traumatic events. Memorials and commemorative spaces help communities process grief. Design that acknowledges historical trauma—of genocide, enslavement, displacement—supports healing while design that erases or ignores it compounds harm. The stories a city tells through its spaces shape the mental health of those who carry those histories.
 
 ## The Healthy City as Integrated System
 
