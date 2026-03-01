@@ -24,6 +24,13 @@
 * **Part V: Legacy**
   * [Risks & The Next 500 Years](book/part5-legacy.md)
 
+* **Part VI: The Transformation** 🆕
+  * [The Ninth Pillar: Meaning Infrastructure](book/chapter-ninth-pillar-full.md)
+  * [A Day in the Living City](book/chapter-day-in-living-city.md)
+  * [The Quality Revolution](book/chapter-quality-revolution.md)
+  * [The Great Reorganization](book/chapter-great-reorganization.md)
+  * [Open Source Everything](book/chapter-open-source-everything.md)
+
 * **Field Manual**
   * [Appendices A-J](book/appendices.md)
 

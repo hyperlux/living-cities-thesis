@@ -1,10 +1,10 @@
 # Living Cities Thesis — Build Status
-**Updated: Feb 21, 2026 ~09:00 UTC**
+**Updated: Mar 1, 2026**
 
 ## Overview
-- **Total Size:** 7.2MB
-- **Total Lines:** 44,147+
-- **Book Chapters:** 29
+- **Total Size:** 7.2MB+
+- **Total Lines:** 45,300+
+- **Book Chapters:** 34
 - **Research Files:** 82
 
 ## Book Structure
@@ -38,6 +38,13 @@
 - `chapter-scaling.md` — Scaling strategies
 - `chapter-health-wellbeing.md` — Health focus
 - `chapter-water-systems.md` — Water infrastructure
+
+### Part VI: The Transformation (Mar 1 Swarm) 🆕
+- `chapter-ninth-pillar-full.md` — Full meaning infrastructure chapter
+- `chapter-day-in-living-city.md` — Daily life vignettes in the living city
+- `chapter-quality-revolution.md` — Post-scarcity manufacturing & quality
+- `chapter-great-reorganization.md` — Domain-by-domain societal transformation
+- `chapter-open-source-everything.md` — Beyond software: open source civilization
 
 ### Supporting Materials
 - `diagram-specs.md` — Visual specifications
